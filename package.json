@@ -1,0 +1,26 @@
+{
+  "name": "design_mode",
+  "version": "1.0.0",
+  "description": "js设计模式",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liangchaofei/design_mode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liangchaofei/design_mode/issues"
+  },
+  "homepage": "https://github.com/liangchaofei/design_mode#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "^5.0.0",
+    "webpack": "^5.21.1",
+    "webpack-cli": "^4.5.0",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
